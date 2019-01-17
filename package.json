@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-playground",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A gatsby plugin to use Prisma Playground",
   "main": "gatsby-node.js",
   "scripts": {
