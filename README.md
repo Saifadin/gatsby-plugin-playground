@@ -1,5 +1,7 @@
 # gatsby-plugin-playground
 
+*⚠️ Disclaimer: Playground has been added as an experimental feature behind a flag by this PR [11193](https://github.com/gatsbyjs/gatsby/pull/11193). To use it without this lib, add `GATSBY_GRAPHQL_IDE=playground` as an environment variable and you should see it at the same route, where GraphiQL used to be.* 
+
 Adds the [Prisma playground](https://github.com/prisma/graphql-playground) to your gatsby dev server. This is running in parallel to GraphiQl.
 
 What you will get is the Playground on the route `/___playground`, which you can use to query your data and test them out.
